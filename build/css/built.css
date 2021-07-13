@@ -1,13 +1,1 @@
-#box2{
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    display: flex;
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
-}
-#box1{
-    width: 100px;
-    height: 100px;
-    background-color: #639;
-}
+#box2{-webkit-backface-visibility:hidden;backface-visibility:hidden;background-color:red;display:flex}#box1,#box2{height:100px;width:100px}#box1{background-color:#639}
